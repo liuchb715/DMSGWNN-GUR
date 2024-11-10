@@ -10,7 +10,7 @@ This is the origin Pytorch implementation of Informer in the following paper:
 We will continue this line of research and update on this repo. Please star this repo and [cite](#citelink) our paper if you find our work is helpful for you.
 
 <p align="center">
-<img src=".\images\DMSGWNN.png" height = "300" alt="" align=center />
+<img src=".\images\DMSGWNN.png" height = "330" alt="" align=center />
 <br><br>
 <b>Figure 1.</b> The architecture of DMSGWNN.
 </p>
@@ -41,7 +41,7 @@ python main_GUR_DMSGWNN.py
 As the data used in this study originates from actual blast furnace ironmaking processes, it contains numerous operational parameters that are proprietary and confidential to the company. Hence, we are unable to openly share these datasets due to strict confidentiality agreements in place. However, in order to test our code, we randomly generated a batch of fake data (`dataSource/data_test.xlsx` and `dataSource/data_GUR_correlation_matrix_test.csv`) to verify the runnability of our code.
 
 <p align="center">
-<img src="./images/data.png" height = "200" alt="" align=center />
+<img src="./images/data.png" height = "230" alt="" align=center />
 <br><br>
 <b>Figure 2.</b> An example of the blast furnace data.
 </p>
