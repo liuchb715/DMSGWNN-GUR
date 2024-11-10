@@ -89,6 +89,6 @@ If you find this repository useful in your research, please consider citing the 
 If you have any questions, feel free to contact Chengbao Liu through Email (liuchengbao2016@ia.ac.cn) or Github issues. Pull requests are highly welcomed!
 
 ## Acknowledgments
-Thanks for the computing infrastructure provided by the Industrial Intelligence Technology and System Research and Development Center, the Institute of Automation of the Chinese Academy of Sciences (CASIA).
+Thanks for the computing infrastructure provided by the Industrial Intelligence Technology and System Team, the Institute of Automation of the Chinese Academy of Sciences (CASIA).
 At the same time, thank you all for your attention to this work! 
 [![Stargazers repo roster for @liuchb715/DMSGWNN-GUR](https://reporoster.com/stars/liuchb715/DMSGWNN-GUR)](https://github.com/liuchb715/DMSGWNN-GUR/stargazers)
