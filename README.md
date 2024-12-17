@@ -5,7 +5,7 @@
 ![License CC BY-NC-SA](https://img.shields.io/badge/license-CC_BY--NC--SA--green.svg?style=plastic)
 
 This is the origin Pytorch implementation of Informer in the following paper: 
-[Denoising Multi-scale Spectral Graph Wavelet Neural Networks for Gas Utilization Ratio Prediction in Blast Furnace](https://ieeexplore.ieee.org/abstract/document/10684734).
+[Denoising Multiscale Spectral Graph Wavelet Neural Networks for Gas Utilization Ratio Prediction in Blast Furnace](https://ieeexplore.ieee.org/abstract/document/10684734).
 
 DMSGWNN is a versatile method that can be applied to similar multivariate time series prediction tasks.
 
