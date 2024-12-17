@@ -1,4 +1,4 @@
-# DMSGWNN: Denoising Multi-scale Spectral Graph Wavelet Neural Networks for Gas Utilization Ratio Prediction in Blast Furnace (TNNLS, 2024)
+# DMSGWNN: Denoising Multiscale Spectral Graph Wavelet Neural Networks for Gas Utilization Ratio Prediction in Blast Furnace (TNNLS, 2024)
 ![Python 3.8](https://img.shields.io/badge/python-3.8-green.svg?style=plastic)
 ![PyTorch 2.0](https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?style=plastic)
 ![cuDNN 8.5.0](https://img.shields.io/badge/cudnn-8.5.0-green.svg?style=plastic)
