@@ -76,11 +76,14 @@ If you find this repository useful in your research, please consider citing the 
 
 ```
 @article{liu2024denoising,
-  title={Denoising Multiscale Spectral Graph Wavelet Neural Networks for Gas Utilization Ratio Prediction in Blast Furnace},
   author={Liu, Chengbao and Li, Jingwei and Li, Yuan and Tan, Jie},
-  journal={IEEE Transactions on Neural Networks and Learning Systems},
-  year={2024},
-  doi = {10.1109/TNNLS.2024.3453280},
+  journal={IEEE Transactions on Neural Networks and Learning Systems}, 
+  title={Denoising Multiscale Spectral Graph Wavelet Neural Networks for Gas Utilization Ratio Prediction in Blast Furnace}, 
+  year={2025},
+  volume={36},
+  number={6},
+  pages={11369-11383},
+  doi={10.1109/TNNLS.2024.3453280}, 
   publisher={IEEE}
 }
 ```
